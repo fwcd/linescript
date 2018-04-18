@@ -1,5 +1,5 @@
 # LineScript
-A minimalistic, cross-platform shell scripting language.
+A minimalistic, interpreted, cross-platform shell scripting language.
 
 ## Dependencies
 * Rust

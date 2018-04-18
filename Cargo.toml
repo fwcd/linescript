@@ -1,0 +1,7 @@
+[package]
+name = "line_script"
+version = "0.1.0"
+authors = ["fwcd"]
+
+[dependencies]
+duct = "0.10.0"

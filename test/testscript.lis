@@ -1,0 +1,10 @@
+echo "Running cross-platform!"
+
+#bash {
+	ls
+	echo "Running on bash!"
+}
+
+#cmd {
+	echo "Running on cmd!"
+}
